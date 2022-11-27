@@ -10,11 +10,11 @@
 <!-- GitHub Stats - históricos dados e em tempo real de se desempenho-->
 <div align="center">
   <a href="https://github.com/marcos-baia">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=marcos-baia&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=false"/>
-  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-baia&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcos-baia&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-baia&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
   <a href="https://github.com/marcos-baia">
-  <img height="90em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-baia&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&locale=en&custom_title=Tech%20%Stack&hide_border=true"/></a>
+  <img height="100em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-baia&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&locale=en&custom_title=Tech%20%Stack&hide_border=true"/></a>
 </div>
 
 
