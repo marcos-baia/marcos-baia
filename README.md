@@ -23,8 +23,6 @@
   <a href="https://github.com/marcos-baia?tab=followers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/marcos-baia?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 <div align="left">
-    <a href="https://github.com/marcos-baia?tab=followers" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/marcos-baia?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
   <a href="https://github.com/marcos-baia">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-baia&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 </div>
