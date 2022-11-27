@@ -11,22 +11,22 @@
 <div align="center">
   <a href="https://github.com/marcos-baia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcos-baia&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-baia&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+  <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-baia&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&locale=en&custom_title=Tech%20%Stack&hide_border=true"/></a>
 </div>
 
 ---
 <!-- Icones das Tecnologias-->
-  <a href="https://github.com/marcos-baia?tab=followers" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/marcos-baia?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
   <img align="right" alt="Baia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Baia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Baia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
 
-
-<div align="center">
+  <a href="https://github.com/marcos-baia?tab=followers" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/marcos-baia?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<div align="left">
+    <a href="https://github.com/marcos-baia?tab=followers" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/marcos-baia?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
   <a href="https://github.com/marcos-baia">
-  <img height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-baia&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&locale=en&custom_title=Tech%20%Stack&hide_border=true"/></a>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-baia&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 </div>
 
 
