@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/marcos-baia?logo=github&style=for-t
   <img align="right" alt="Baia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
 
 
-
+  ![Snake animation](https://github.com/marcos-baia/marcos-baia/blob/output/github-contribution-grid-snake.svg)
 
 
 
