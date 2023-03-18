@@ -1,6 +1,6 @@
 Hey, I'm Marcos! 🖖
 
-📌 Living in Belém, Pará, Brazil
+📌 Living in Belém, Pará, Brazil <br>
 💻 Web Developer 
 📚 Graduate in Computer Science at UFOPA
 🚀 Full Stack Student at Rocketseat
