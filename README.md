@@ -1,10 +1,10 @@
 Hey, I'm Marcos! 🖖
 
 📌 Living in Belém, Pará, Brazil <br>
-💻 Web Developer 
-📚 Graduate in Computer Science at UFOPA
-🚀 Full Stack Student at Rocketseat
-🎯 Focused in Node.JS, ReactJS and React Native
+💻 Web Developer <br> 
+📚 Graduate in Computer Science at UFOPA <br>
+🚀 Full Stack Student at Rocketseat <br>
+🎯 Focused in Node.JS, ReactJS and React Native <br>
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/marcos-baia)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-baia/)
