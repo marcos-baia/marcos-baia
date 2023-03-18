@@ -1,8 +1,10 @@
-# Oiê!!! Eu sou o Marcos Baia 🖖
-###📍 Paraense, da margem esquerda do Rio Tocantins.
-## Desenvolvedor Front-end
+Hey, I'm Marcos! 🖖
 
-
+📌 Living in Belém, Pará, Brazil
+💻 Web Developer 
+📚 Graduate in Computer Science at UFOPA
+🚀 Full Stack Student at Rocketseat
+🎯 Focused in Node.JS, ReactJS and React Native
 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/marcos-baia)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-baia/)
